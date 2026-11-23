@@ -69,3 +69,5 @@ I build practical software across web apps, automation, desktop tools, and machi
 If you have an internship, collaboration, hackathon team, or interesting project, feel free to reach out.
 
 📫 [sunandmoon8484984@gmail.com](mailto:sunandmoon8484984@gmail.com)
+
+![GitHub contribution grid snake animation](https://raw.githubusercontent.com/Optim2233/Optim2233/output/github-contribution-grid-snake-dark.svg)
