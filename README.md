@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 I build practical software across web apps, automation, desktop tools, and machine learning.
 
-- 🌐 Portfolio: [your-portfolio.vercel.app](https://optim-portfolio.vercel.app)
+- 🌐 Portfolio: [optim-portfolio.vercel.app](https://optim-portfolio.vercel.app)
 - 📫 Email: [sunandmoon8484984@gmail.com](mailto:sunandmoon8484984@gmail.com)
 - 💼 GitHub: [@Optim2233](https://github.com/Optim2233)
 
