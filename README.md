@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Optim2233/Optim2233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +20,7 @@ Here are some ideas to get you started:
 
 I build practical software across web apps, automation, desktop tools, and machine learning.
 
-- 🌐 Portfolio: [your-portfolio.vercel.app](https://your-portfolio.vercel.app)
+- 🌐 Portfolio: [your-portfolio.vercel.app](https://optim-portfolio.vercel.app)
 - 📫 Email: [sunandmoon8484984@gmail.com](mailto:sunandmoon8484984@gmail.com)
 - 💼 GitHub: [@Optim2233](https://github.com/Optim2233)
 
